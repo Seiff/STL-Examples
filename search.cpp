@@ -46,6 +46,7 @@ int main() {
 							Student("Edwin", 532, 1.8),
 							Student("Glinda", 164, 3.7),
 							Student("Golda", 219, 2.2)};
+							
 	int numberOfStudent = sizeof(students)/sizeof(students[0]);
 	Student *result;
 
